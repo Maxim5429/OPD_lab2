@@ -13,3 +13,5 @@
 ![Screenshot_20230415-202301_Telegram](https://user-images.githubusercontent.com/125201422/232230354-d5410de1-e636-4ae9-88d1-73bd4be52bb0.jpg)
 ![image](https://user-images.githubusercontent.com/125201422/232230374-5e486a5d-330d-4f34-bfd4-0ab57c062cd2.png)
 ![image](https://user-images.githubusercontent.com/125201422/232230390-cf14a5ae-47ef-4a54-b9f6-feff8b5ee02f.png)
+Обновил фото профиля бота:
+![Screenshot_20230415-203826_Telegram](https://user-images.githubusercontent.com/125201422/232231107-b29ca383-9290-4e18-b9c8-f8c30237215a.jpg)
